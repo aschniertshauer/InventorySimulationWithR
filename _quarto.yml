@@ -1,15 +1,21 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "InventorySimulationWithR"
-  author: "Norah Jones"
-  date: "9/25/2023"
+  title: "Improving Inventory Management Through Simulation"
+  subtitle: "An Introduction for Spare Parts Business"
+  reader-mode: true
+  author: "Alexander Schniertshauer"
+  date: "2024-01-02"
   chapters:
     - index.qmd
     - intro.qmd
     - summary.qmd
     - references.qmd
+  
+cover-image: Teilelager.jpg
+favicon: Teilelager.jpg
 
 bibliography: references.bib
 
@@ -17,7 +23,9 @@ format:
   html:
     theme: cosmo
   pdf:
-    documentclass: scrreprt
+    documentclass: scrbook
+    pdfengine: xelatex
+    mainfont: "Arial"
 
 editor: visual
 

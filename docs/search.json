@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Improving Inventory Management Through Simulation",
+    "section": "",
+    "text": "Preface\nThis is the website for “Simulation Techniques for Spare Parts Business”, a book that will teach you how to apply simulation techniques in order to evaluate and improve inventory management for spare parts. You may ask yourselves why spare parts? A first, and maybe the simplest, answer is: I have worked for 35 years in that field and I know that the challenging nature of that business makes it a master discipline for inventory management. I hope my experience will add valuable insights and practical flavour when we discuss inventory management and simulation. The second answer can be found in the foreword of a seminal book on the management of service parts. Here the authors (Altay and Litteral 2011) state that\nThere is little to add to that statement. The complexity of spare parts business, especially in the area of inventory management, requires the use of IT solutions that are in itself complicate to install and handle. And it is exactly at this point where simulations should play an important role for management: Simulation modeling may help to solve real-world problems efficiently annd robustely. It provides an important element in the OR toolset which is easily understood and communicated. In inventory management simulations inform about the impacts of different inventory policies, parameter settings, usage scenarios, etc.\nDespite all these advantages, at least from my experience, simulations are seldom used regularly and systematically. Why is that? Part of the answer may be that inventory management staff and parts management lack an understanding how simulation can be practically applied, what questions need to be asked, and what tools are available to implement it.\nBased on the usage of R this book hopefully helps to close the gap between theory and practice. It wants to encourage a more widespread use of simulations in daily business practice, and to serve as a starting point for your own journey.\nIn this book you will get acquainted with real-life characteristics of spare parts data (like demand and order patterns). You’ll learn how to explore, visualize, and classify these demand patterns . You will become familiar with different approaches to simulate parts demands and get a feeling for the pitfalls and shortcomings of these approaches. You’ ll learn how to simulate the impact of various forecasting methods, policies for safety stock and ordering.\nThe book requires a basic knowledge of R and the tidyverse. A familiarity with fundamental principles and methods of inventory management is also a must.\nThis website is (and will always be) free to use, and is licensed under the Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License. If you’d like a physical copy of the book, you can order it from MyPublisher."
+  },
+  {
+    "objectID": "index.html#about-the-author",
+    "href": "index.html#about-the-author",
+    "title": "Improving Inventory Management Through Simulation",
+    "section": "About the Author",
+    "text": "About the Author\nProfessionally, Alexander Schniertshauer offers a wealth of international experience and extensive business exposure to a variety of functions and activities within the automotive industry. As strategic advisor he has supported, since 2007, global automotive players. Prior to that he has enjoyed a more than 20-year automotive career within Daimler-Benz. Amongst other functions he has headed, as Vice President Technical Service , the global service business for Mercedes-Benz passenger cars, vans, and trucks,worked as Director of After Sales Marketing and as President of Mercedes-Benz Russia. He has also served on the Supervisory Board of various Daimler affiliates.\nBeyond his professional endeavors, Alexander is deeply engaged in exploring how analytical approaches and machine learning can revolutionize the service and parts industry, leveraging extensive data resources to gain a competitive edge. A passionate enthusiast of the R programming language, he continually seeks out new possibilities and tools within the R ecosystem.\nOutside of work, Alexander loves to read (mostly about history) and is currently trying to learn Hebrew. He also finds joy in traveling, hiking, skiing, and cherishing quality time with his family."
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Improving Inventory Management Through Simulation",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n“Simulation Techniques for Spare Parts Business” is hosted by https://www.netlify.com as part of their support of open source software and communities.\n\n\n\n\nAltay, Nezih, and Lewis A. Litteral. 2011. Service Parts Management. Demand Forecasting and Inventory Control. Springer London."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Altay, Nezih, and Lewis A. Litteral. 2011. Service Parts Management.\nDemand Forecasting and Inventory Control. Springer London.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+  }
+]
